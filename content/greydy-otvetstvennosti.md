@@ -10,6 +10,7 @@ tags:
   - ответственность
   - грейды
 status: active
+publish: true
 created: 2026-07-29
 updated: 2026-07-29 23:56
 parents:
