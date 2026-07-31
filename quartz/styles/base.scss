@@ -540,10 +540,18 @@ th {
   text-align: left;
   padding: 0.4rem 0.7rem;
   border-bottom: 2px solid var(--gray);
+  border-right: 1px solid var(--lightgray);
+  &:last-child {
+    border-right: none;
+  }
 }
 
 td {
   padding: 0.2rem 0.7rem;
+  border-right: 1px solid var(--lightgray);
+  &:last-child {
+    border-right: none;
+  }
 }
 
 tr {
